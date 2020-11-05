@@ -1,2 +1,3 @@
 # Astar
-A* Search / Shortest Pathfinding Algorithm in Java
+
+### An implementation of the A* Search Algorithm in Java
